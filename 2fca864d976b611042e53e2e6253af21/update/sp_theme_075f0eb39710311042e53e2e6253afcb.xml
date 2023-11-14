@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_theme">
+    <sp_theme action="INSERT_OR_UPDATE">
+        <css_variables>$vehicle-Primary: #c42217;&#13;
+$vehicle-Secondary: #631F1A;&#13;
+$vehicle-CloudWhite: #f8fff4;&#13;
+$vehicle-CloudBlack: #323232;&#13;
+&#13;
+/* ELEMENT SPECIFIC CSS */ &#13;
+&#13;
+$sp-tagline-color:      $vehicle-CloudWhite ;&#13;
+$navbar-inverse-bg:      #c42217 !default;&#13;
+$navbar-inverse-link-color: $vehicle-CloudWhite !default;&#13;
+$navbar-inverse-link-hover-color: #631F1A !default;&#13;
+$body-bg: $vehicle-Secondary !default;</css_variables>
+        <footer display_value="Vehicle Warehouse Footer">f1a9877897a8711042e53e2e6253af10</footer>
+        <footer_fixed>false</footer_fixed>
+        <header display_value="Stock Header">bf5ec2f2cb10120000f8d856634c9c0c</header>
+        <name>Vehicle Warehouse</name>
+        <navbar_fixed>true</navbar_fixed>
+        <sys_class_name>sp_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 20:36:54</sys_created_on>
+        <sys_id>075f0eb39710311042e53e2e6253afcb</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Vehicle Warehouse</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_919571_lva">2fca864d976b611042e53e2e6253af21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">2fca864d976b611042e53e2e6253af21</sys_scope>
+        <sys_update_name>sp_theme_075f0eb39710311042e53e2e6253afcb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-07 04:32:43</sys_updated_on>
+        <turn_off_scss_compilation>false</turn_off_scss_compilation>
+    </sp_theme>
+</record_update>

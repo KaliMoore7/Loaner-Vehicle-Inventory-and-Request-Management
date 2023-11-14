@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css_include">
+    <sp_css_include action="INSERT_OR_UPDATE">
+        <lazy_load>false</lazy_load>
+        <name>Vehicle Links</name>
+        <source>local</source>
+        <sp_css display_value="vehicle_links.css">e12e02f39710311042e53e2e6253af20</sp_css>
+        <sys_class_name>sp_css_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 20:38:23</sys_created_on>
+        <sys_id>79dfca379710311042e53e2e6253af45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle Links</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_919571_lva">2fca864d976b611042e53e2e6253af21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">2fca864d976b611042e53e2e6253af21</sys_scope>
+        <sys_update_name>sp_css_include_79dfca379710311042e53e2e6253af45</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 20:38:23</sys_updated_on>
+        <url/>
+    </sp_css_include>
+</record_update>

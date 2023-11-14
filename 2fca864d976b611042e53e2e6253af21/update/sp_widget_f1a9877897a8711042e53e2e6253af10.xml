@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[api.controller=function() {  /* widget controller */  var c = this;};]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.footerStyle {
+width: 100%;
+background-color: #c42217;
+color: #ffffff;
+text-align: center;
+font-size: 125%;
+margin-left: auto;
+margin-right: auto;
+padding-top: 25px;
+}
+
+.contactIT {
+width: 275px;
+display: inline-block;
+text-align: left;
+vertical-align: top;
+}
+
+.contactSecurity {
+width: 275px;
+display: inline-block;
+text-align: Left;
+vertical-align: top;
+}
+
+.copyright {
+	width: 400px;
+	display: inline-block;
+	text-align: left: 
+  vertical-align: top;
+}
+
+.social {
+display: inline-block;
+text-align: center;
+text-align: left;
+vertical-align: top;
+font-size: 150%;
+}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>vehicle_warehouse_footer</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>Vehicle Warehouse Footer</name>
+        <option_schema/>
+        <public>true</public>
+        <roles/>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-07 03:24:25</sys_created_on>
+        <sys_id>f1a9877897a8711042e53e2e6253af10</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Vehicle Warehouse Footer</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_919571_lva">2fca864d976b611042e53e2e6253af21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">2fca864d976b611042e53e2e6253af21</sys_scope>
+        <sys_update_name>sp_widget_f1a9877897a8711042e53e2e6253af10</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-07 04:07:56</sys_updated_on>
+        <template><![CDATA[<div class="footerStyle">
+
+<div class="contactIT">
+	<p><strong>CONTACT IT</strong></p>
+  <p>Americas: +1 XXX 555 1234</p>
+	<p>EMEA: +xx 55 555 1234</p>
+	<p>APAC: +XX 55 555 12343</p>
+</div>
+
+<div class="contactSecurity">
+	<p><strong>CONTACT SECURITY</strong></p>
+	<p>Americas: +1 XXX 555 4321</p>
+	<p>EMEA: +xx 55 555 4321</p>
+	<p>APAC: ＋xx 55 555 4321</p>
+</div>
+
+<div class="copyright">
+	<p>&copy 2016 ServiceNow Inc. All Rights Reserved</p>
+</div>
+
+<div class="social" id="footer">
+	<a class="fa fa-linkedin" href="https://www.linkedin.com/company/servicenow" target="_blank></a>
+	<a class="fa fa-twitter" href="https://www.twitter.com/servicenow" target="_blank></a>
+	<a class="fa fa-youtube" href="https://www.youtube.com/servicenowinc" target="_blank></a> 
+	<a class="fa fa-facebook" href="https://www.facebook.com/servicenow" target="_blank></a>
+	<a class="fa fa-power-off" href="https://community.servicenow.com" target=" blank></a>
+</div>
+
+
+</div>
+
+]]></template>
+    </sp_widget>
+</record_update>
