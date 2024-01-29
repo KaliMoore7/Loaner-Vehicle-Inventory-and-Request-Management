@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>hidden-xs</class_name>
+        <container_class_name/>
+        <name>Loaner Vehicle Home - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="loaner_vehicle_home">950a28829758b11042e53e2e6253af7b</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-29 02:43:41</sys_created_on>
+        <sys_id>a10a60c29758b11042e53e2e6253af3f</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Loaner Vehicle Home - Container 1</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_919571_lva">2fca864d976b611042e53e2e6253af21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">2fca864d976b611042e53e2e6253af21</sys_scope>
+        <sys_update_name>sp_container_a10a60c29758b11042e53e2e6253af3f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 04:24:40</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">2fca864d976b611042e53e2e6253af21</application>
+        <file_path/>
+        <instance_id>9061f6fbdb3393043353f22ebf9619cb</instance_id>
+        <instance_name>dev70580</instance_name>
+        <name>sp_container_a10a60c29758b11042e53e2e6253af3f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name>hidden-xs</class_name><container_class_name/><name>Loaner Vehicle Home - Container 1</name><order>1</order><sp_page display_value="loaner_vehicle_home">950a28829758b11042e53e2e6253af7b</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-29 02:43:41</sys_created_on><sys_id>a10a60c29758b11042e53e2e6253af3f</sys_id><sys_mod_count>10</sys_mod_count><sys_name>Loaner Vehicle Home - Container 1</sys_name><sys_package display_value="Loaner Vehicle Request and Inventory" source="x_919571_lva">2fca864d976b611042e53e2e6253af21</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request and Inventory">2fca864d976b611042e53e2e6253af21</sys_scope><sys_update_name>sp_container_a10a60c29758b11042e53e2e6253af3f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-08 04:24:40</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-1022260306</payload_hash>
+        <record_name>Loaner Vehicle Home - Container 1</record_name>
+        <reverted_from/>
+        <source>e5ab0e8d976b611042e53e2e6253afb0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 04:24:40</sys_created_on>
+        <sys_id>d601e41d97acb11042e53e2e6253afdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189d363cc150000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 04:24:40</sys_updated_on>
+        <type>Container</type>
+        <update_guid>de01e41d4aacb1107c5064611b53efdb</update_guid>
+        <update_guid_history>de01e41d4aacb1107c5064611b53efdb:-1022260306,91c0249558acb110ea6373714f87870e:1675630904,6db0e8d946acb1105bebb5e3e1048911:-889418644,7c50ec5922acb1101c9a8191add5ac74:1915005646,36306059deacb1104c572bebd348b208:-2103621253,1100e4d9cfacb1109279dfc3a4756928:634358981,77df54d9deacb110d6ba20bfed4f5202:-1421457485,03df5459b9acb110ef684472d9225fcb:-2051479086,013d1a700d287110886ff6b8ce429457:1675630904,adcc5270942871103c7fe7cbc374ec5f:-1607246985,cfee6ab3ba9031101bca3ec8888edf6c:1675630904,da5aac826e58b1103df910b33e8dde1f:120229765,e10a60c2ca58b1109e9e71a07c573a40:932980237</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loaner Vehicle Home - Container 1">e822245d97acb11042e53e2e6253af50</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 04:29:27</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>800755360a7a4860bf7ae5966bf4b100</sys_id>
+        <sys_metadata>a10a60c29758b11042e53e2e6253af3f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle Home - Container 1</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_919571_lva">2fca864d976b611042e53e2e6253af21</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">2fca864d976b611042e53e2e6253af21</sys_scope>
+        <sys_scope_delete display_value="">1ab4e21239d741b5a008b03a44e4cb29</sys_scope_delete>
+        <sys_update_name>sp_container_a10a60c29758b11042e53e2e6253af3f</sys_update_name>
+        <sys_update_version display_value="sp_container_a10a60c29758b11042e53e2e6253af3f">d601e41d97acb11042e53e2e6253afdc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 04:29:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

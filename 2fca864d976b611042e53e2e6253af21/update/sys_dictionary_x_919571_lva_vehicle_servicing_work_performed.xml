@@ -52,7 +52,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-22 23:53:26</sys_created_on>
-        <sys_id>57a9e65697a7211042e53e2e6253afe6</sys_id>
         <sys_name>Work Performed</sys_name>
         <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_919571_lva">2fca864d976b611042e53e2e6253af21</sys_package>
         <sys_policy/>

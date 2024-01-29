@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="DELETE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="xpath">37651ff79714311042e53e2e6253af56</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Looking for the Vehicle Warehouse inventory? Look here.]]></content>
+        <guide display_value="Vehicle Warehouse Tour">408e87b39714311042e53e2e6253af9a</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name/>
+        <options>{"url":"/lvri?id=loaner_vehicle_home"}</options>
+        <order>4</order>
+        <placement>top</placement>
+        <skippable>false</skippable>
+        <step_type>step</step_type>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-04 01:41:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b3651ff79714311042e53e2e6253af58</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_919571_lva">2fca864d976b611042e53e2e6253af21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">2fca864d976b611042e53e2e6253af21</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_b3651ff79714311042e53e2e6253af58</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-07 05:42:09</sys_updated_on>
+        <target/>
+        <target_ref display_value="xpath">37651ff79714311042e53e2e6253af56</target_ref>
+        <title/>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>lvri</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="DELETE" query="documentkey=b3651ff79714311042e53e2e6253af58"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">2fca864d976b611042e53e2e6253af21</application>
+        <file_path/>
+        <instance_id>9061f6fbdb3393043353f22ebf9619cb</instance_id>
+        <instance_name>dev70580</instance_name>
+        <name>sys_embedded_tour_step_b3651ff79714311042e53e2e6253af58</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_embedded_tour_step"&gt;&lt;sys_embedded_tour_step action="INSERT_OR_UPDATE"&gt;&lt;action&gt;false&lt;/action&gt;&lt;action_event&gt;next&lt;/action_event&gt;&lt;action_target/&gt;&lt;action_target_ref display_value="xpath"&gt;37651ff79714311042e53e2e6253af56&lt;/action_target_ref&gt;&lt;active&gt;true&lt;/active&gt;&lt;content&gt;&lt;![CDATA[Looking for the Vehicle Warehouse inventory? Look here.]]&gt;&lt;/content&gt;&lt;guide display_value="Vehicle Warehouse Tour"&gt;408e87b39714311042e53e2e6253af9a&lt;/guide&gt;&lt;implicit&gt;false&lt;/implicit&gt;&lt;link/&gt;&lt;name/&gt;&lt;options&gt;{"url":"/lvri?id=loaner_vehicle_home"}&lt;/options&gt;&lt;order&gt;4&lt;/order&gt;&lt;placement&gt;top&lt;/placement&gt;&lt;skippable&gt;false&lt;/skippable&gt;&lt;step_type&gt;step&lt;/step_type&gt;&lt;sys_class_name&gt;sys_embedded_tour_step&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-08-04 01:41:58&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;b3651ff79714311042e53e2e6253af58&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Loaner Vehicle Request and Inventory" source="x_919571_lva"&gt;2fca864d976b611042e53e2e6253af21&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Loaner Vehicle Request and Inventory"&gt;2fca864d976b611042e53e2e6253af21&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_embedded_tour_step_b3651ff79714311042e53e2e6253af58&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-08-07 05:42:09&lt;/sys_updated_on&gt;&lt;target/&gt;&lt;target_ref display_value="xpath"&gt;37651ff79714311042e53e2e6253af56&lt;/target_ref&gt;&lt;title/&gt;&lt;ui_version&gt;dynamic&lt;/ui_version&gt;&lt;view/&gt;&lt;window&gt;lvri&lt;/window&gt;&lt;/sys_embedded_tour_step&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=b3651ff79714311042e53e2e6253af58"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1677926364</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e5ab0e8d976b611042e53e2e6253afb0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-07 05:42:09</sys_created_on>
+        <sys_id>9729eb78972c711042e53e2e6253af76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189ce845f850000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-07 05:42:09</sys_updated_on>
+        <type>Guided Tour Step</type>
+        <update_guid>5f29eb784e2c71108aa4e827e224f075</update_guid>
+        <update_guid_history>5f29eb784e2c71108aa4e827e224f075:-1677926364,c7381bfb5d1431107f0bd6c4677653d1:1728077219,c0751ff72c14311054774275919ed759:121702220</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-07 05:43:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_embedded_tour_step">sys_embedded_tour_step</sys_db_object>
+        <sys_id>1e5da92ac74d45c889ff1c114f2f0c40</sys_id>
+        <sys_metadata>b3651ff79714311042e53e2e6253af58</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_919571_lva">2fca864d976b611042e53e2e6253af21</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">2fca864d976b611042e53e2e6253af21</sys_scope>
+        <sys_scope_delete display_value="">1ab4e21239d741b5a008b03a44e4cb29</sys_scope_delete>
+        <sys_update_name>sys_embedded_tour_step_b3651ff79714311042e53e2e6253af58</sys_update_name>
+        <sys_update_version display_value="sys_embedded_tour_step_b3651ff79714311042e53e2e6253af58">9729eb78972c711042e53e2e6253af76</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-07 05:43:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

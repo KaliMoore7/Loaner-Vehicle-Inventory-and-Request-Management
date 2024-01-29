@@ -6,7 +6,7 @@
         <action_target_ref display_value="xpath">b2437b0797dc311042e53e2e6253af92</action_target_ref>
         <active>true</active>
         <content><![CDATA[Check out the full warehouse inventory here!]]></content>
-        <guide display_value="Vehicle Warehouse Tour">3800b70797dc311042e53e2e6253af42</guide>
+        <guide/>
         <implicit>false</implicit>
         <link/>
         <name/>

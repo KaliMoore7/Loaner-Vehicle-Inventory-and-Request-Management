@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_guide">
+    <sys_embedded_tour_guide action="DELETE">
+        <active>true</active>
+        <additional_parameters/>
+        <autolaunch_order>0</autolaunch_order>
+        <context>lvri?id=loaner_vehicle_home&amp;gtd_portal_title=Vehicle Warehouse&amp;gtd_page_title=Loaner Vehicle Home</context>
+        <description/>
+        <has_concl>true</has_concl>
+        <has_intro>true</has_intro>
+        <name>Vehicle Warehouse Tour</name>
+        <options/>
+        <roles/>
+        <sp_page display_value="loaner_vehicle_home">950a28829758b11042e53e2e6253af7b</sp_page>
+        <sp_portal display_value="Vehicle Warehouse">e80760029758b11042e53e2e6253af74</sp_portal>
+        <status>draft</status>
+        <sys_class_name>sys_embedded_tour_guide</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-01 19:42:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3800b70797dc311042e53e2e6253af42</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Vehicle Warehouse Tour</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_919571_lva">2fca864d976b611042e53e2e6253af21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">2fca864d976b611042e53e2e6253af21</sys_scope>
+        <sys_update_name>sys_embedded_tour_guide_3800b70797dc311042e53e2e6253af42</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-04 01:10:18</sys_updated_on>
+        <tour_id>TOUR0000007</tour_id>
+        <type>service_portal</type>
+    </sys_embedded_tour_guide>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">2fca864d976b611042e53e2e6253af21</application>
+        <file_path/>
+        <instance_id>9061f6fbdb3393043353f22ebf9619cb</instance_id>
+        <instance_name>dev70580</instance_name>
+        <name>sys_embedded_tour_guide_3800b70797dc311042e53e2e6253af42</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_guide"><sys_embedded_tour_guide action="INSERT_OR_UPDATE"><active>true</active><additional_parameters/><autolaunch_order>0</autolaunch_order><context>lvri?id=loaner_vehicle_home&amp;gtd_portal_title=Vehicle Warehouse&amp;gtd_page_title=Loaner Vehicle Home</context><description/><has_concl>true</has_concl><has_intro>true</has_intro><name>Vehicle Warehouse Tour</name><options/><roles/><sp_page display_value="loaner_vehicle_home">950a28829758b11042e53e2e6253af7b</sp_page><sp_portal display_value="Vehicle Warehouse">e80760029758b11042e53e2e6253af74</sp_portal><status>draft</status><sys_class_name>sys_embedded_tour_guide</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-01 19:42:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3800b70797dc311042e53e2e6253af42</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Vehicle Warehouse Tour</sys_name><sys_overrides/><sys_package display_value="Loaner Vehicle Request and Inventory" source="x_919571_lva">2fca864d976b611042e53e2e6253af21</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request and Inventory">2fca864d976b611042e53e2e6253af21</sys_scope><sys_update_name>sys_embedded_tour_guide_3800b70797dc311042e53e2e6253af42</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-04 01:10:18</sys_updated_on><tour_id>TOUR0000007</tour_id><type>service_portal</type></sys_embedded_tour_guide></record_update>]]></payload>
+        <payload_hash>866500731</payload_hash>
+        <record_name>Vehicle Warehouse Tour</record_name>
+        <reverted_from/>
+        <source>e5ab0e8d976b611042e53e2e6253afb0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-04 01:10:18</sys_created_on>
+        <sys_id>543ec3b39714311042e53e2e6253af17</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189be186c550000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-04 01:10:18</sys_updated_on>
+        <type>Guided Tour</type>
+        <update_guid>1c3ec3b3e2143110885c751713524516</update_guid>
+        <update_guid_history>1c3ec3b3e2143110885c751713524516:866500731,e3b6bb07b7dc311058de7db25c9fa316:-1588309436,b475bb073edc3110ffb9aa1a9c9d9c0b:1426052913,d261bf47e4dc31108672da94e6af5366:-1486973420,4100b70748dc31107ebdc9cd99658c46:1687210791</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-04 01:11:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_embedded_tour_guide">sys_embedded_tour_guide</sys_db_object>
+        <sys_id>1d3767625fb04b78939668f1102002d9</sys_id>
+        <sys_metadata>3800b70797dc311042e53e2e6253af42</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle Warehouse Tour</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_919571_lva">2fca864d976b611042e53e2e6253af21</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">2fca864d976b611042e53e2e6253af21</sys_scope>
+        <sys_scope_delete display_value="">1ab4e21239d741b5a008b03a44e4cb29</sys_scope_delete>
+        <sys_update_name>sys_embedded_tour_guide_3800b70797dc311042e53e2e6253af42</sys_update_name>
+        <sys_update_version display_value="sys_embedded_tour_guide_3800b70797dc311042e53e2e6253af42">543ec3b39714311042e53e2e6253af17</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-04 01:11:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

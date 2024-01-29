@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_header_footer">
-    <sp_widget action="delete_reclassify" reclassify_current="sp_header_footer" reclassify_id="f1a9877897a8711042e53e2e6253af10" reclassify_previous="sp_widget"/>
     <sp_header_footer action="INSERT_OR_UPDATE">
         <category>custom</category>
         <client_script><![CDATA[api.controller=function() {  /* widget controller */  var c = this;};]]></client_script>
